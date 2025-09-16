@@ -1,0 +1,10 @@
+Python virtual environment
+venv/
+pycache/
+
+IDE / Editor specific
+.vscode/
+.idea/
+
+System files
+.DS_Store
